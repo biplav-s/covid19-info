@@ -22,9 +22,9 @@
 
 1. List of US universities and their class status,  [https://docs.google.com/spreadsheets/u/0/d/1tTrVvlAntKL9OZgL3sBz-LTb9bmW5K70R-bFdSnLcyQ/htmlview?fbclid=IwAR2Pu9CblxM6Z6sMsgy2hKtJNyDIPfHm3oZ95v\_E8NMb4GvlEyQRXYG6YbA#gid=0](https://docs.google.com/spreadsheets/u/0/d/1tTrVvlAntKL9OZgL3sBz-LTb9bmW5K70R-bFdSnLcyQ/htmlview?fbclid=IwAR2Pu9CblxM6Z6sMsgy2hKtJNyDIPfHm3oZ95v_E8NMb4GvlEyQRXYG6YbA#gid=0)
 2. Kaggle competitions
--- Data analysis, many including[https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/tasks?taskId=508](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/tasks?taskId=508), 
+>* Data analysis, many including[https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/tasks?taskId=508](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/tasks?taskId=508), 
 
--- NLP by Allen Institute and others, [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/tasks?taskId=508](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/tasks?taskId=508)
+>* NLP by Allen Institute and others, [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/tasks?taskId=508](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/tasks?taskId=508)
 
 
 **Aggregate information source** :
