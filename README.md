@@ -6,6 +6,6 @@
    extend and contribute.
    
 ## Content
-- See [resources] (https://github.com/biplav-s/covid19-info/edit/master/resources.md) file.
+- See [resources] (https://github.com/biplav-s/covid19-info/blob/master/resources.md) file.
 
 
