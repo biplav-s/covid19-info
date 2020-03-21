@@ -7,12 +7,15 @@
 - Impact
   1. Post by Craig Feied, [https://www.facebook.com/craig.feied/posts/10158020035772622](https://www.facebook.com/craig.feied/posts/10158020035772622) [Feb 26, 2020]
   2. High Temperature and High Humidity Reduce the Transmission of COVID-19, [https://papers.ssrn.com/sol3/Papers.cfm?abstract\_id=3551767](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3551767) [March 10, 2020]
-  3. Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand, [https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) [March 16, 2020]
+  3. Spread of SARS-CoV-2 Coronavirus likely to be constrained by climate, Miguel B. Araujo, Babak Naimi
+medRxiv 2020.03.12.20034728; doi: https://doi.org/10.1101/2020.03.12.20034728 [March 16, 2020]
+  4. Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand, [https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) [March 16, 2020]
   
 - Controlling
   1. Coronavirus: Why You Must Act Now, [https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) [March 10, 2020]
-  2. COVID-19: Why I&#39;m Very Concerned — Despite what should have been ample warning, the U.S. may get blindsided, [https://www.medpagetoday.com/infectiousdisease/covid19/85324](https://www.medpagetoday.com/infectiousdisease/covid19/85324) [March 9, 2020]
-  3. Singapore contained Coronavirus. Could other countries learn from its approach?, [https://www.weforum.org/agenda/2020/03/singapore-response-contained-coronavirus-covid19-outbreak](https://www.weforum.org/agenda/2020/03/singapore-response-contained-coronavirus-covid19-outbreak) [March 5, 2020]
+  2. Coronavirus: The Hammer and the Dance, https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56 [March 19, 2020]
+  3. COVID-19: Why I&#39;m Very Concerned — Despite what should have been ample warning, the U.S. may get blindsided, [https://www.medpagetoday.com/infectiousdisease/covid19/85324](https://www.medpagetoday.com/infectiousdisease/covid19/85324) [March 9, 2020]
+  4. Singapore contained Coronavirus. Could other countries learn from its approach?, [https://www.weforum.org/agenda/2020/03/singapore-response-contained-coronavirus-covid19-outbreak](https://www.weforum.org/agenda/2020/03/singapore-response-contained-coronavirus-covid19-outbreak) [March 5, 2020]
   
 - Treatment
   1. 
