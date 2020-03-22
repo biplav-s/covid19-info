@@ -6,6 +6,7 @@
    extend and contribute.
    
 ## Content
-- See [resources] (https://github.com/biplav-s/covid19-info/blob/master/resources.md) file.
+- See [references] (https://github.com/biplav-s/covid19-info/blob/master/references.md) file.
+- See triage procedure recommended by India's top hospital for corona patients.
 
 
