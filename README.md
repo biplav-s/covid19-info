@@ -7,6 +7,6 @@
    
 ## Content
 - See [references] (https://github.com/biplav-s/covid19-info/blob/master/references.md) file.
-- See triage procedure recommended by India's top hospital for corona patients.
+- See [triage procedure] (https://github.com/biplav-s/covid19-info/blob/master/files/AIIMS-COVID19TriageProcedure-20200321-WA0078.jpg) recommended by India's top hospital for corona patients.
 
 
