@@ -33,3 +33,4 @@ medRxiv 2020.03.12.20034728; doi: https://doi.org/10.1101/2020.03.12.20034728 [M
 **Aggregate information source** :
 
 1. [http://www.kiragoldner.com/covid19/](http://www.kiragoldner.com/covid19/)
+2. TED talks about viruses, https://www.ted.com/playlists/735/the_fight_against_viruses [Continously updated]
