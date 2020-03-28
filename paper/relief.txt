@@ -1,9 +1,9 @@
 Medical Inventory for the City of New York.
 a) 4 large hospitals(Already Built) + 4 Medical Centers(Already Built) + 4 large Tents(Requested By Gov. Andrew Cuomo to be built by U.S. Army Corps of Engineers + FEMA.)
-b) Hospital Ship 1 and 2 each have a supply of 1000 bed each.
+b) Hospital Ship 1 and 2 each have a supply of 1000 bed each will arrive in NYC.
 Hospital Ship 1:- https://en.wikipedia.org/wiki/USNS_Comfort_(T-AH-20)
 Hospital Ship 2:- https://en.wikipedia.org/wiki/USNS_Mercy_(T-AH-19)
 Video Source:- https://www.facebook.com/msnbc/videos/1336990036501748/
 c) Defence Production Act invoked by the president for the production of ventilators by General Motors. 
-Source:- https://www.nbcnews.com/politics/donald-trump/trump-invokes-defense-production-act-force-gm-make-ventilators-coronavirus-n1170746
-
+Source:- https://www.nbcnews.com/politics/donald-trump/trump-invokes-defense-production-act-force-gm-make-ventilators-coronavirus-n1170746\
+d) Facts on U.S. Hospitals - Source:- https://www.aha.org/statistics/fast-facts-us-hospitals?fbclid=IwAR2tgGbrD_PnMQMJmjbOrPh_iXSWAQnhDgncO1m-67dTQb_OmVM_I3sVHbI
