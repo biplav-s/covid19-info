@@ -11,6 +11,10 @@ d) Facts on U.S. Hospitals - Source:- https://www.aha.org/statistics/fast-facts-
 Weather:-
 U.S.
 a) The gif shows the weather from 18th to 31st of March. Source:- Max_Temp_in_US_From_18th_to31.gif
+b) Air quality index:- Source:- (aqi 2020-03-28 19-57-09.png) and url :- https://aqicn.org/city/usa/new-york/holtsville/
+
+c) Traffic and pollution levels across the U.S. have dropped amid the #COVIDoutbreak. @DescartesLabs processed data from #Sentinel-5P satellite and compared it to March 10-22 Source 1 :-https://twitter.com/i/status/1242556796482375680
+Main Source 2;- https://www.nbcnewyork.com/news/coronavirus/satellite-images-show-pollution-levels-dropping-in-u-s-cities-amid-coronavirus-pandemic/2344733/
 
 Europe:-
 a) Pollution lowered due to lockdown in Europe:- 
