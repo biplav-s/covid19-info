@@ -4,14 +4,16 @@ b) Hospital Ship 1 and 2 each have a supply of 1000 bed each will arrive in NYC.
 Hospital Ship 1:- https://en.wikipedia.org/wiki/USNS_Comfort_(T-AH-20)
 Hospital Ship 2:- https://en.wikipedia.org/wiki/USNS_Mercy_(T-AH-19)
 Video Source:- https://www.facebook.com/msnbc/videos/1336990036501748/
+Field Hospital at Javits Convention Center(sneak+peek):- https://edition.cnn.com/videos/health/2020/03/28/new-york-coronavirus-field-hospital-prokupecz-lok-vpx.cnn/video/playlists/coronavirus/
 c) Defence Production Act invoked by the president for the production of ventilators by General Motors. 
 Source:- https://www.nbcnews.com/politics/donald-trump/trump-invokes-defense-production-act-force-gm-make-ventilators-coronavirus-n1170746\
 d) Facts on U.S. Hospitals - Source:- https://www.aha.org/statistics/fast-facts-us-hospitals?fbclid=IwAR2tgGbrD_PnMQMJmjbOrPh_iXSWAQnhDgncO1m-67dTQb_OmVM_I3sVHbI
 
 Weather:-
 U.S.
-a) The gif shows the weather from 18th to 31st of March. Source:- Max_Temp_in_US_From_18th_to31.gif
-b) Air quality index:- Source:- (aqi 2020-03-28 19-57-09.png) and url :- https://aqicn.org/city/usa/new-york/holtsville/
+a) The gif shows the Max Temperature from 18th to 31st of March. Source:- Max_Temp_in_US_From_18th_to31.gif
+b) Air quality index has improved in many parts. This should help in faster recovery:- Source:- (aqi 2020-03-28 19-57-09.png) and url :- https://aqicn.org/city/usa/new-york/holtsville/
+
 
 c) Traffic and pollution levels across the U.S. have dropped amid the #COVIDoutbreak. @DescartesLabs processed data from #Sentinel-5P satellite and compared it to March 10-22 Source 1 :-https://twitter.com/i/status/1242556796482375680
 Main Source 2;- https://www.nbcnewyork.com/news/coronavirus/satellite-images-show-pollution-levels-dropping-in-u-s-cities-amid-coronavirus-pandemic/2344733/
