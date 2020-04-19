@@ -1,61 +1,118 @@
-Do Not have Access to wiki. Hence, the file.
+Don't have access to the wiki in your Repo. Hence, making changes to this file.
+
 Medical Inventory for the City of New York.
-a) 4 large hospitals(Already Built) + 4 Medical Centers(Already Built) + 4 large Tents(Requested By Gov. Andrew Cuomo to be built by U.S. Army Corps of Engineers + FEMA.)
-b) USNS Comfort arrives at New York and USNS arrives at Los Angeles (Correction) 
-USNS Comfort to take 500 Covid patients for treatment, reduced from 1000 Non-Covid patients initially. As, Covid patients take more space than the Non-Covid Patients.
-Source:- msnbc 7th April Daily briefing by Gov Cuomo, N.Y.
+
+1) 4 large hospitals(Already Built) + 4 Medical Centers(Already Built) + 
+4 large Tents(Requested By Gov. Andrew Cuomo to be built by U.S. Army Corps of Engineers + FEMA.)
+
+2) USNS Comfort arrives at New York and USNS Mercy arrives at Los Angeles (Correction) 
+USNS Comfort to take 500 COVID patients for treatment, reduced from 1000 Non-COVID patients initially. 
+COVID patients take more space than Non-COVID Patients.
+
+Source:- 7th April Daily briefing by Gov Cuomo, N.Y. (MSNBC)
 Source: https://www.defense.gov/Explore/News/Article/Article/2134688/usns-mercy-usns-comfort-receiving-patients-in-la-new-york-city/
 Hospital Ship 1:- https://en.wikipedia.org/wiki/USNS_Comfort_(T-AH-20)
 Hospital Ship 2:- https://en.wikipedia.org/wiki/USNS_Mercy_(T-AH-19)
 Video Source:- https://www.facebook.com/msnbc/videos/1336990036501748/
 Field Hospital at Javits Convention Center(sneak+peek):- https://edition.cnn.com/videos/health/2020/03/28/new-york-coronavirus-field-hospital-prokupecz-lok-vpx.cnn/video/playlists/coronavirus/
-c) Defence Production Act invoked by the president for the production of ventilators by General Motors. 
+
+3) Defence Production Act invoked by the president for the production of ventilators by General Motors. 
 Source:- https://www.nbcnews.com/politics/donald-trump/trump-invokes-defense-production-act-force-gm-make-ventilators-coronavirus-n1170746\
-d) Facts on U.S. Hospitals - Source:- https://www.aha.org/statistics/fast-facts-us-hospitals?fbclid=IwAR2tgGbrD_PnMQMJmjbOrPh_iXSWAQnhDgncO1m-67dTQb_OmVM_I3sVHbI (FB feed:- Prof Yoshua Bengio)
-e) The number of deaths in N.Y. has crossed then the one in 9/11 - Article Source from FB feed True New Yorker Prof. Yann LeCun
-f) Accelerate Discovery Tool - https://covid19-mol.mybluemix.net/ should be made known to inhouse chemist and other learning researcher in
-the area for better solution. 
-g) Blood therapy showing prospect for better recovery/ John Hopkins given a go for Blood plasma therapy - Source:- MIT TechReview/ Wired 
+
+4) Facts on U.S. Hospitals - Source:- https://www.aha.org/statistics/fast-facts-us-hospitals?fbclid=IwAR2tgGbrD_PnMQMJmjbOrPh_iXSWAQnhDgncO1m-67dTQb_OmVM_I3sVHbI 
+    (FB feed:- Prof Yoshua Bengio)
+
+5) The number of deaths in N.Y. has crossed then the one in 9/11 - Article Source from FB feed True New Yorker Prof. Yann LeCun
+
+6) Accelerate Discovery Tool - https://covid19-mol.mybluemix.net/ should be made known to in house chemist and researchers in the area for a better finding of a cure. (Added as part of the broadcast for call for researchers at my personal LinkedIn page/ Facebook/ Twitter and Robotics Page)
+
+7) Blood therapy showing prospect for better recovery/ John Hopkins given a go for Blood plasma therapy - Source:- MIT TechReview/ Wired 
 Source:- https://www.jhsph.edu/news/news-releases/2020/hopkins-gets-FDA-ok-to-test-blood-plasma-therapies-for-COVID-19-patients.html?fbclid=IwAR0p77mS1TM-jwfczo53OebA3_ZBQSFXZFIKb5W1VHsO5h-jJTcjcbZpEH4
-h) cabin fever/ Surviving Self-isolation - Tips from astronauts who stayed in close quarters in ISS. source:- https://futurism.com/surviving-isolation-lesson-astronauts
+
+8)  cabin fever/ Surviving Self-isolation - Tips from astronauts who stayed in close quarters in ISS. This implies to highly social and highly workaholic individuals. Most astronauts are military personal or have experience in military facilities. source:- https://futurism.com/surviving-isolation-lesson-astronauts
+[Once, we conquer our men's fear(8) we are invincible together. (Speech from cadet training(Special Army Division, India).)]
+
+9) 
 
 Weather:-
-U.S.
-a) The gif shows the Max Temperature from 18th to 31st of March. Source:- Max_Temp_in_US_From_18th_to31.gif Source: Weather Online - loop view
-b) Air quality index has improved in many parts. This should help in faster recovery:- Source:- (aqi 2020-03-28 19-57-09.png) and url :- https://aqicn.org/city/usa/new-york/holtsville/
-c) Traffic and pollution levels across the U.S. have dropped amid the #COVIDoutbreak. @DescartesLabs processed data from #Sentinel-5P satellite and compared it to March 10-22 Source 1 :-https://twitter.com/i/status/1242556796482375680
+United States
+1) The gif shows the Max Temperature from 18th to 31st of March. Source:- Max_Temp_in_US_From_18th_to31.gif Source: Weather Online - Used loop view for the gif thingy.
+2) Air quality index has improved in many parts. This should help in faster recovery:- Source:- (attachment - AQI 2020-03-28 19-57-09.png) and source:- https://aqicn.org/city/usa/new-york/holtsville/
+3) Traffic and pollution levels across the U.S. have dropped amid the #COVIDoutbreak. @DescartesLabs processed data from #Sentinel-5P satellite and compared it to March 10-22 Source 1 :-https://twitter.com/i/status/1242556796482375680
 Main Source 2;- https://www.nbcnewyork.com/news/coronavirus/satellite-images-show-pollution-levels-dropping-in-u-s-cities-amid-coronavirus-pandemic/2344733/
 
 Europe:-
-a) Pollution lowered due to lockdown in Europe:- 
+1) Pollution lowered due to lockdown in Europe:- 
 Source:- https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Coronavirus_lockdown_leading_to_drop_in_pollution_across_Europe?fbclid=IwAR3-IEwAMq0mP6nVgOTMFsLGnRGhv7rJnf8tzmiaJKiRhGMS5yKno51-bnM
 
-Personal Thought (Policy ):-
-a) Educating people, with correct scientific local information would accelerate the general cluster community for faster 
-recovery. 
-b) All country should implement forces in there power. So, no lower force is overwhelmed by the duty. 
-For e.g. Use Military/ Army to control lockdown if Police is overwhelmed. Or free the police, So that they can help 
-distribute food and relief where required as they are more close to locals and do jobs in a much more disciplined/ 
-and let Military/ Amry to control the lockdown. (People in uniform and boots have tendency to follow orders in a much more 
-structured manner then the one who are not.) Voluntary Cadet and Volunteers can be given temporary positions for controling 
-crowd and informing the crowd about current status. local volunteers can help with resources like building containment 
-centers and moving necessary food and medicine. A cluster to be generally accompanied with a volunteer/ private, who reports 
-back to local law enforcement. 
+Personal Thought (Policies that could be implemented):-
+1) Educating people, with correct scientific local information would accelerate the general cluster community for faster recovery. (For India - Digital India initiative, For U.S. Daily briefing by governer and their Medical committee)
 
-Homeless/ Migrants, be given a proper place at temporary shelter and food inaccordance with social distancing. e.g. :- https://laist.com/2020/03/13/los-angeles-homeless-coronaviurs-covid.php
-c) Vaccine preparation and Testing should be free. As a unhealthy/ mortal individual makes zero contribution to future of 
+2) All country should implement forces in their power. So, no lower force is overwhelmed by the duty. 
+E.g. Use Military/ Army to control lockdown if Police is overwhelmed. Or free the police, So that they can help 
+distribute food and relief wherever required as they are more close to locals and do jobs in a much more disciplined/ 
+meanwhile, let the Military/ Army have a control the lockdown. 
+
+(People in uniform and boots tend to follow orders in a much more structured manner than the one who are not.) 
+Voluntary Cadet and Volunteers can be given temporary positions for controlling the crowd and informing the crowd with correct information 
+about the current status. local volunteers can help with resources like building containment centres and moving necessary food and medicine. 
+A cluster to be generally accompanied with a volunteer(Preferably a state cadet. Every school/ college(These are students after 10+2)
+(governs 2 k.m. radius of the population) has 30 odd senior cadet(India) = scouts(U.S)) -> Havaldar =
+private(https://www.military.com/army/enlisted-ranks.html), who reports back to local law enforcement (Governor or Ranking officer equivalent). 
+
+(1) and (2) are basically to follow the hierarchical(chain of command) model to solve the problem. 
+
+Homeless/ Migrants, be given a proper place at a temporary shelter and food by following rules as per social distancing. 
+e.g. :- https://laist.com/2020/03/13/los-angeles-homeless-coronaviurs-covid.php
+
+3) Vaccine preparation and Testing should be free. As an unhealthy/ mortally dead individual makes zero contribution to the future of 
 any country (Reality Check for leaders). 
-d) Casuality of any essential working individual should not be taken lightly. 
-e) We are in this together we would be only judged by the humanity and kindness we show durign such times, and the brutal way 
-we can overcome such a pandemic of this scale. 
-f) Techies/ Companies mass producing medical equipments should have access to any and every resource available in the 
-community/ should report to local law enforcement.
-g) Doctors should be given special powers the right of refusal to treat Covid patients in absence of proper PPE. 
+
+4) A casualty of any essential working individual should not be taken lightly. 
+
+5) We are in this together we would be only judged by the humanity and kindness we show during such times, and the way we can overcome such a pandemic of this scale. 
+
+6) Techies/ Companies mass-producing medical equipment should have access to any and every resource available in the community/ 
+should report to local law enforcement.
+
+7) Doctors should be given special powers the right of refusal to treat COVID patients in absence of proper PPE. As the doctor per patient ratio is less than 1. 
 (Consent based treatment) 
-h) trains/ metro can be used for transfer of local amenities like food and medical supplies as they have lifts and to be operated 
-by only law enforcement bodies. (Trains and Metros are available in all major/ minor cities and are well conneced to a 6 k.m. 
-radius population.) People can post their the necessary inventory availabilty of supplies on government sites. 
-i) All information from a) to h) can be dispered using the covid tracker app/ general news. 
-j) Russia resorts to surveilance for checking on proper followup of lockdown. 
-k) Technology should be used properly with accessibility to resource. 
+
+8) Trains/ metro can be used for the transfer of local amenities like food and medical supplies as they have lifts and such functions to be only operated by law enforcement bodies. (Trains and Metros are available in all major/ minor cities and are well connected to a 6 k.m. 
+radius population.) People can post there the necessary inventory availability of supplies on government sites and requests.
+
+9) All information from (1) to (8) can be dispersed using the COVID tracker app using (APP without borders[Taken from doctors w/o borders]/ one-stop solution)/ general news (E.g. Daily Briefing already done by N.Y Gov Cuomo for U.S/ For India, My Gov App or Linkedin page and Mann ki baat/ Good news source like WEF/ UN News/ WHO briefing on Facebook).
+
+10) Russia resorts to surveillance for checking on proper followup of lockdown. (Not my personal favourite, just an opinion)
+(source:- https://www.theguardian.com/world/2020/apr/02/cybergulag-russia-looks-to-surveillance-technology-to-enforce-lockdown)
+
+11) Technology should be used properly with accessibility to resource and following Ethics and Privacy-Preserving guidelines. 
+On top level not harming any citizen of any community. (GDPR)
+
+12) SmartTech should be a solution and not a curse, and to be promoted to use wisely as advised by the Research community. (Of course, no one wants to touch that doorbell at times like this. Intercom are the perfect solution to such a problem.) 
+
+13) People working as part of the essential worker category who are in constant touch with other people should take extra precautions. 
+
+Let's just say with facemask, they can add face shield. I compiled a list of sources for the same. Source:- Madhavan's FB feed.
+       a) MIT initiates mass manufacture of disposable face shields for COVID-19 response. Source:- MIT:-
+        http://news.mit.edu/2020/face-shield-ppe-manufacture-covid-19-0331?fbclid=IwAR306h7WkwRxkXxSi7S18r9Qh94uCPyM_PCQrzlADfwue8gtNg8COl7KdxE
+
+        b) Face shield in 1-minute source: NYU Tandon
+        https://techcrunch.com/2020/03/27/nyu-makes-face-shield-design-for-healthcare-workers-that-can-be-built-in-under-a-minute-available-to-all/?tpcc=ECFB2020&fbclid=IwAR2OP02ENnckyVgiG51DUlW39_-AVMvSLT-3599mZsCM1FXmxKJIZspuyxY
+
+        c) 3D Printed Face Shield by Prusa Developers. Source: Josef Prusa.
+        https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shields-in-three-days/?fbclid=IwAR0oBrscw1sA8KRW6Mz5bW5YLnKdh0vYTwroXXuVHeEVdSCK0s1w647Us7w
+
+14) Intercity trains/ subways can be good transportation of transfer essential commodities like food/ medicine/ essential workers and other 
+essential things as per their daily schedule. 
+E.g. 
+         1) New York could use the SubWay to do the above thingy.
+         2) Mumbai has BMC bus running to transport essential workers.
+         3) Delhi could use the metro's as all metro station cover 2k.m. radius of the general population. + CRPF security(Central Reserve Police Force).
+         
+15) The crime rates may go down, but domestic violence can go up. Victims of such events should be given sanctuary at proper places, local authorities should be cognizant of such matters. (Source:- NYPD crime stats, todo for me to add source link.)
+
+16) Why India has the upper hand against COVID-19 
+Source:-  https://www.weforum.org/agenda/2020/04/india-covid19-coronavirus-response-kerala-uttar-pradesh/
+
 -- I will add more in this section. -- 
