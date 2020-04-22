@@ -12,8 +12,34 @@
 ## Ventilator Production
 1. Defence Production Act invoked by the president for the production of ventilators by General Motors [News Source:](https://www.nbcnews.com/politics/donald-trump/trump-invokes-defense-production-act-force-gm-make-ventilators-coronavirus-n1170746)[March 27, 2020]
 
-## Mortality in N.Y. 
-1. The number of deaths in N.Y. has crossed then the one in 9/11 - Article Source from FB feed True New Yorker Prof. Yann LeCun
+## Mortality in N.Y. ***Updated***
+1. The number of deaths in N.Y. has crossed then the one in 9/11 - Article Source from Facebook feed True New Yorker Prof. Yann LeCun
+
+A suggestive formula for testing folks and local patrol distribution for care and compliance of lockdown (human resources/medical personal).
+
+***[essential_supplies, essential_personal] = f(covid_population_density)***
+
+#### Description:- 
+
+###### output variables:-
+> a) essential_supplies(vector):- essential supplies include but is not limited to testing supplies, food distribution and services.
+> b) essential_personal(vector):- essential personal include patrol police men, doctors, nurses and skeletal crew to keep the system running.
+
+###### Function f is the model, on which one wants to train the data.
+
+###### input variables:-
+> a) covid_population_density:- It is the population density of a given location with covid patients in the location being vectors.
+
+***Q:Why covid is treated as vectors? A:- Covid spread airborne and is invisible. The time the Covid patient realizes he is Covid +ve. he has already infected others.***
+
+For e.g. To control vectors if New York (10 k.m. scale) has to go into complete lockdown it has to use minimum patrol force as many location manhattan, brooklyn and staten island are surrounded by water. If Delhi(10 k.m. scale) has to go into lockdown it has to cover a generic parameter like a circle of sorts. While for mumbai (5 k.m. scale) it will be much less then either for city-wide lockdown. *(Geographic reference's are made using Google Maps)*
+Also here, complete lockdown here is deploying patrol forces at city borders. Please find below snapshots of maps. 
+### New York (Map Scale 10k.m.)
+![New York](https://github.com/biplav-s/covid19-info/blob/00467abc463ee9a169921271484103347fe33468/paper/map_new_york.png) 
+### Mumbai (Map Scale 5k.m.)
+![Mumbai](https://github.com/biplav-s/covid19-info/blob/00467abc463ee9a169921271484103347fe33468/paper/map_mumbai.png) 
+### Delhi (Map Scale 10k.m.) 
+![Delhi](https://github.com/biplav-s/covid19-info/blob/00467abc463ee9a169921271484103347fe33468/paper/map_new_delhi.png)
 
 ## Chemicals Listed after processing 
 1. Accelerate Discovery Tool: This tool has top level analytics of the compounds that are shortlisted by IBM supercomputer SUMMIT after processing [ADT Tool](https://covid19-mol.mybluemix.net/) (It should be made known to in house chemist and researchers in the area for a better finding of a cure. Added as part of the broadcast for call for researchers at my personal LinkedIn page/ Facebook/ Twitter and Robotics Page. Original Broadcast with minor changes.[open letter by me ver - 2.0](https://docs.google.com/document/d/1dWmR0jyIAyljbut6puUQv-LhFYzGyN9if4sUZlVcB5c/edit?usp=sharing)
@@ -21,22 +47,23 @@
 ## Treatment Front
 1. Blood therapy showing prospect for better recovery [Source: MIT TechReview(Biotech)](https://www.technologyreview.com/2020/04/10/998897/the-race-to-make-a-covid-19-drug-from-the-blood-of-survivors/)[April 10, 2020]/ John Hopkins gets FDA approval for for Blood plasma therapies for COVID-19 patients [Source: JHU](https://www.jhsph.edu/news/news-releases/2020/hopkins-gets-FDA-ok-to-test-blood-plasma-therapies-for-COVID-19-patients.html?fbclid=IwAR0p77mS1TM-jwfczo53OebA3_ZBQSFXZFIKb5W1VHsO5h-jJTcjcbZpEH4)[April 3, 2020]
 
-2. Pyschological therapy - this is for highly social and highly workaholic individuals who suffer from cabin fever/ Surviving Self-isolation due to Lockdown. Here are few tips from astronauts who stayed in close quarters in ISS.  Most astronauts are military personal or have experience with science experiments lab in military facilities. [ A good list of astronauts talking on surviving isolation, a one-stop collection by futurism.com](https://futurism.com/surviving-isolation-lesson-astronauts)[March 24, 2020] [Once, we conquer our men's fear we are invincible together. (Speech from cadet training (Special Army Division, India)).]
+2. Pyschological therapy - This is mainly for "highly social" and "highly workaholic" individuals who are "extroverts" this few tips from astronauts who stayed in close quarters in ISS can boost their productivity.  Most astronauts are military personal or have experience with science experimental lab in military facilities. The topics they talk surrounds cabin fever/ Surviving Self-isolation due to Lockdown. A good share with working colleagues (I would be sharing this with highly functional Roboticist community who engaged with me from 2010-2013. The number is around 400+ who atleast created one robot or mentored a group of 4. I will be dispersing this information using the dedicated FB page.).[ A good list of astronauts talking on surviving isolation, a one-stop collection by futurism.com](https://futurism.com/surviving-isolation-lesson-astronauts)[March 24, 2020] [Once, we conquer our men's fear we are invincible together. (Speech from cadet training (Special Army Division, India)).] ***Updated***
 
 ## Weather
 ### United States:-
-1. High Temperature should help in reduction of the number of cases. The gif shows the Max Temperature from 18th to 31st of March. [ Check animation of weather report here. ](Max_Temp_in_US_From_18th_to31.gif)  The gif can be prepared using the Weather Online site in loop view, using software like simplescreenrecorder + shotcut in OS Ubuntu [On live site.](https://www.weatheronline.in/weather/maps/forecastmaps?LANG=in&UP=0&R=0&MORE=1&MAPS=vtx&CONT=namk&LAND=__&ZEIT=202004211145&LOOP=1)
+1. High Temperature should help in reduction of the number of cases. The gif shows the Max Temperature for U.S. [March 18-31, 2020]. Check animation of weather report here. ![](https://github.com/biplav-s/covid19-info/blob/b6f98ae4928a76d197b74c042045aa4217972766/paper/Max_Temp_in_US_From_18th_to31.gif)  
+The gif can be prepared using the Weather Online site in loop view, using software like simplescreenrecorder + shotcut in OS Ubuntu [On live site.](https://www.weatheronline.in/weather/maps/forecastmaps?LANG=in&UP=0&R=0&MORE=1&MAPS=vtx&CONT=namk&LAND=__&ZEIT=202004211145&LOOP=1)
 
-2. Air quality index has improved in many parts. This should help in faster recovery. [Please, Find below snapshot prepared from AQI site](AQI 2020-03-28 19-57-09.png) and [Main website- aqicn.org](https://aqicn.org/city/usa/new-york/holtsville/)
+2. Air quality index has improved in many parts. This should help in faster recovery. Please, Find below snapshot prepared from AQI site for date [March 28, 2020].![](https://github.com/biplav-s/covid19-info/blob/b6f98ae4928a76d197b74c042045aa4217972766/paper/aqi%202020-03-28%2019-57-09.png) and here is the link to the [Main website of aqicn.org](https://aqicn.org/city/usa/new-york/holtsville/)
 
 3. Traffic and pollution levels across the U.S. have dropped amid the #COVIDoutbreak. @DescartesLabs processed data from #Sentinel-5P satellite and compared it to March 10-22 
-[Please, Time lapse here of the weather](https://twitter.com/i/status/1242556796482375680)[March 24, 2020]
+[Please play, to check the Time lapse here of the weather](https://twitter.com/i/status/1242556796482375680)[March 24, 2020]
 [Please, find satellite images of pollution levels here.](https://www.nbcnewyork.com/news/coronavirus/satellite-images-show-pollution-levels-dropping-in-u-s-cities-amid-coronavirus-pandemic/2344733/)[March 26, 2020]
 
+
 ### Europe:-
-1. Pollution lowered due to lockdown in Europe:- 
-Source:- 
-[Please, find ESA Reporting here](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Coronavirus_lockdown_leading_to_drop_in_pollution_across_Europe?fbclid=IwAR3-IEwAMq0mP6nVgOTMFsLGnRGhv7rJnf8tzmiaJKiRhGMS5yKno51-bnM)[March 27, 2020]
+1. Pollution lowered due to lockdown in Europe.
+[Please, find ESA(European Space Agency) Reporting here](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Coronavirus_lockdown_leading_to_drop_in_pollution_across_Europe?fbclid=IwAR3-IEwAMq0mP6nVgOTMFsLGnRGhv7rJnf8tzmiaJKiRhGMS5yKno51-bnM)[March 27, 2020]
 
 ## Policies that could be useful on implementation. 
 
@@ -46,20 +73,21 @@ Source:-
 
 2. Hierarchical Model:- All country should implement forces in their power. So, no lower force is overwhelmed by the duty. 
 >* For E.g. Use Military/ Army to control lockdown if Police is overwhelmed by the lockdown activies. Or free the police, So that they can help distribute food and relief wherever required as they are more close to locals and they do their jobs in a much more disciplined way. Meanwhile let the Military/ Army have a control the lockdown. 
->>* (People in uniform and boots tend to follow orders in a much more structured manner than the one who are not.Voluntary Cadet and Volunteers can be given temporary positions for directing the crowd and informing the crowd with correct information about the current status. local volunteers can help with resources like building containment centres and moving necessary food and medicine. A cluster to be generally accompanied with a volunteer (Preferably a state cadet in uniform. Every school/ college(These are students after 10+2) (governs 2 k.m. radius of the population) has 30 odd senior cadet(India) = scouts(U.S)) -> Havaldar =private (https://www.military.com/army/enlisted-ranks.html), who reports back to local law enforcement (Governor or Ranking officer equivalent).)
+***(People in uniform and boots tend to follow orders in a much more structured manner than the one who are not.Voluntary Cadet and Volunteers can be given temporary positions for directing the crowd and informing the crowd with correct information about the current status. local volunteers can help with resources like building containment centres and moving necessary food and medicine. A cluster to be generally accompanied with a volunteer (Preferably a state cadet in uniform. Every school/ college(These are students after 10+2) (governs 2 k.m. radius of the population) has 30 odd senior cadet(India) = scouts(U.S)) -> Havaldar =private (https://www.military.com/army/enlisted-ranks.html), who reports back to local law enforcement (Governor or Ranking officer equivalent).)***
 
-*** (1) and (2) are basically to follow the Hierarchical (chain of command) model to solve the problem. 
+*(1) and (2) are basically to follow the Hierarchical (chain of command) model to solve the problem.*
 
 3. Homeless/ Migrants, be given a proper place at a temporary shelter and food by following rules as per social distancing. 
-[Example of Los Angeles Homeless coronavirus care:-](https://laist.com/2020/03/13/los-angeles-homeless-coronaviurs-covid.php)
+[Example of Los Angeles Homeless coronavirus care.](https://laist.com/2020/03/13/los-angeles-homeless-coronaviurs-covid.php)
 [March 13, 2020]
+
 4. Vaccine preparation and Testing should be free. As an unhealthy/ mortally dead individual makes zero contribution to the future of any country (Reality Check for leaders). 
 
 5. A casualty of any essential working individual should not be taken lightly. 
 
 6. We are in this together we would be only judged by the humanity and kindness we show during such times, and the way we can overcome such a pandemic of this scale. 
 
-7. Techies/ Companies mass-producing medical equipment should have access to any and every resource available in the community/ should report to local law enforcement.
+7. Techies/ Companies mass-producing medical equipment should have access to any and every resource available in the community/ should report to local law enforcement. 
 
 8. Doctors should be given special powers the right of refusal to treat COVID patients in absence of proper PPE. As the doctor per patient ratio is less than 1. [Consent based treatment. #RealityCheckForEveryOne]() 
 
@@ -67,8 +95,8 @@ Source:-
 
 10. All information from point (1) to (8) can be dispersed using the COVID tracker app using (APP without borders[Taken from doctors w/o borders]/ one-stop solution)/ general news (E.g. Daily Briefing already done by N.Y Gov Cuomo for U.S/ For India, My Gov App or Linkedin page and Mann ki baat/ Good news source like WEF/ UN News/ WHO briefing on Facebook).
 
-11. Russia resorts to surveillance for checking on proper followup of lockdown. (Not my personal favourite, just an opinion. But the country is doing something to keep its citizen safe, looks more like desperate measure. Better then many others.)
-[Guardian talks about surveilance technology enforcement](https://www.theguardian.com/world/2020/apr/02/cybergulag-russia-looks-to-surveillance-technology-to-enforce-lockdown)[April 2, 2020]
+11. Russia resorts to surveillance for checking on proper followup of lockdown. (Not my personal favourite, just an opinion. But the country is doing something to keep its citizen safe, though more of a desperate measure. Better then many others. "July situation for India is already now in Russia.") 
+[Guardian talks about surveilance technology enforcement](https://www.theguardian.com/world/2020/apr/02/cybergulag-russia-looks-to-surveillance-technology-to-enforce-lockdown)[April 2, 2020] ***Updated***
 
 12. Technology should be used properly with accessibility to resource and following Ethics and Privacy-Preserving guidelines. On top level not harming any citizen of any community. (GDPR)
 
@@ -88,10 +116,12 @@ Source:-
 For Example
 >* New York could use the SubWay to do the above thingy.
 >* Mumbai has been already using BMC bus to transport essential workers.
->* Delhi could use the metro's as all metro station cover 2k.m. radius of the general population. + CRPF security(Central Reserve Police Force).
+>* Delhi could use the metro's as all metro station cover 2- 6k.m. radius of the general population. + CRPF security(Central Reserve Police Force).
          
-15. The crime rates may go down, but domestic violence can go up. Victims of such events should be given sanctuary at proper places, local authorities should be cognizant of such matters. [This is from NYPD crime stats, At the press briefing]()
+15. The crime rates may go down, but domestic violence can go up. Victims of such events should be given sanctuary at proper places, local authorities should be cognizant of such matters. [This is from NYPD crime stats, At the press briefing - Add link todo]()
 
 16. Why India has the upper hand against COVID-19 [Please, find the published article by World Economic Forum](https://www.weforum.org/agenda/2020/04/india-covid19-coronavirus-response-kerala-uttar-pradesh/)[April 17,2020]
+
+17. We completely missed the [odd-even setting for vehicles(Your recommendation)](https://www.linkedin.com/pulse/delhis-second-take-odd-even-traffic-rationing-make-cut-srivastava/) post lockdown to help people recover from Covid as two source link Air pollution to Covid 19 deaths. [WEF](https://www.weforum.org/agenda/2020/04/the-deadly-link-between-covid-19-and-air-pollution/) and [BBC](https://www.bbc.com/news/health-52351290) 
 
 -- I will add more in this section. -- 
