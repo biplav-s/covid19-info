@@ -125,28 +125,39 @@ For Example
 
 16. Why India has the upper hand against COVID-19 [Please, find the published article by World Economic Forum](https://www.weforum.org/agenda/2020/04/india-covid19-coronavirus-response-kerala-uttar-pradesh/)[April 17,2020]
 
-17. We completely missed the [odd-even setting for vehicles(Your recommendation)](https://www.linkedin.com/pulse/delhis-second-take-odd-even-traffic-rationing-make-cut-srivastava/) post lockdown to help people recover from Covid as two source link Air pollution to Covid 19 deaths. [WEF](https://www.weforum.org/agenda/2020/04/the-deadly-link-between-covid-19-and-air-pollution/) and [BBC](https://www.bbc.com/news/health-52351290) 
+17. We completely missed the [odd-even setting for vehicles(Your recommendation)](https://www.linkedin.com/pulse/delhis-second-take-odd-even-traffic-rationing-make-cut-srivastava/) post lockdown to help people recover from COVID as two source link Air pollution to COVID 19 deaths. [WEF](https://www.weforum.org/agenda/2020/04/the-deadly-link-between-covid-19-and-air-pollution/) and [BBC](https://www.bbc.com/news/health-52351290) 
 
-18. WHO Academy for health workers and WHO Info for general public are the two apps recently published by WHO. [13th May 2020](https://www.who.int/news-room/detail/13-05-2020-launch-of-the-who-academy-and-the-who-info-mobile-applications?fbclid=IwAR0Ence-lAqeLOki25im7-00FUnaUeyo2533eEi-DI4-4u4J6crivggjYrY#.Xr7hxFztIPs.facebook). There is a World Health Assembly 73 going on dated 18-19th May Link:- [Main Site](https://apps.who.int/gb/e/e_wha73.html?fbclid=IwAR3bLkyTAq17FxTGesODM3CRUjLJ8tR2WH9ydJNYw3aJ60ur7eBnMmfH-ak) [live video Link](https://www.facebook.com/WHO/videos/643688902876975/?fref=mentions) [Daily Briefing by WHO](https://www.facebook.com/WHO/)
+18. WHO Academy for health workers and WHO Info for the general public are the two apps recently published by WHO. [13th May 2020](https://www.who.int/news-room/detail/13-05-2020-launch-of-the-who-academy-and-the-who-info-mobile-applications?fbclid=IwAR0Ence-lAqeLOki25im7-00FUnaUeyo2533eEi-DI4-4u4J6crivggjYrY#.Xr7hxFztIPs.facebook). There is a World Health Assembly 73 going on dated 18-19th May Link:- [Main Site](https://apps.who.int/gb/e/e_wha73.html?fbclid=IwAR3bLkyTAq17FxTGesODM3CRUjLJ8tR2WH9ydJNYw3aJ60ur7eBnMmfH-ak) [live video Link](https://www.facebook.com/WHO/videos/643688902876975/?fref=mentions) [Daily Briefing by WHO](https://www.facebook.com/WHO/)
 
-19. with less then 10 days before first monsoon arrives after pandemic announcement(coronavirus can stay in the atmosphere for a long time). 
->* Everyone should be prepared now more then ever. Like every general household should get a thermometer for general temperature check. I know the contactless thermometer can be a bit costlier, but they are not that costlier for a organization with essential workers. Know ways to sanitize a good local thermometer/ medical supplies (This is the new normal). Create a #MasksForAllInitiative for the rest of the year (A good leaders will always promote this). 
+19. with less than 10 days before the first monsoon arrives after the pandemic announcement(coronavirus can stay in the atmosphere for a long time). 
+>* Everyone should be prepared now more than ever. Like every general household should get a thermometer for a general temperature check. I know the contactless thermometer can be a bit costlier, but they are not that costlier for an organization with essential workers. Know ways to sanitize a good local thermometer/ medical supplies (This is the new normal). Create a #MasksForAllInitiative for the rest of the year (A good leaders will always promote this). 
 
 >* Enough medicine for storage/ backup in a medical centre, which are far away from cities/ accessible towns.
 
 >* Being Vigilant about the number of cases also makes people cognizant of taking appropriate steps in a given location.
-(The Aaorogya Setu App does it best, gives number of cases in 500m/ 1k.m. and more)
+(The Aaorogya Setu App does it best, gives several cases in 500m/ 1k.m. and more)
 
->* A reptitive message of good number of ads on television about safety measures. This can be the default television channel 0000 (This is the same channel we get most of the ads). 
+>* A repetitive message of a good number of ads on television about safety measures + Healthy living would be great to increase awareness. This can be the default television channel 0000 (This is the same channel we get most of the ads from the subscriber). 
 
->* There are cities with second wave of the virus. (Add source here.)
+>* There are cities with the second wave of the virus. [In News - Second Waves Are Plaguing Asia’s Virus Recovery](https://www.bloomberg.com/news/articles/2020-05-14/asia-s-virus-taming-stars-disappointed-by-resurgence-of-casesl)
 
->* Cities with most cases should be given special attention. A root cause should be found to prevent second wave in such locations.
+>* Cities with most cases should be given special attention. A root cause should be found to prevent the second wave in such locations.
 
-20. Food, clothing, shelter and healthcare should be basic rights and not privilege.
+#### Alert Special Case: *AMPHAN Cyclone, nearly 3 million people to evacuated across India and Bangladesh. (Cyclone + Covid19)
+[Link to 3 Million people evacuation due to AMPHAN Cyclone](https://github.com/madhavanpallan/covid19-info/blob/master/paper/AMPHAN_CYCLONE_SPECIAL_CASE/UNDRR_3M_EVAC_AMPHAN.png) [May 19, 2020][History](https://github.com/madhavanpallan/covid19-info/blob/master/paper/AMPHAN_CYCLONE_SPECIAL_CASE/WMO_UNDRR_AMPHAN.png) of cyclones, and why it is neccessary [May 19, 2020].
+Good Source of information for climate change are:- [1. World Meteorological Organization - World level](https://twitter.com/WMO), [2. UN Office for Disaster Risk Reduction,](https://twitter.com/UNDRR), [3. India Met. Dept. - India](https://twitter.com/Indiametdept), [4. ESA EarthObservation - Europe](https://twitter.com/ESA_EO), [5. NOAA Climate.gov](https://twitter.com/NOAAClimate)
 
-21. Fuzzy tailgating (elaborate the topic)
+>* In a situation like mass evacuation when one has to get evacuated in an abrupt situation. Periodic (say in 3 days) self assess can be of good use. This is one of the features in Aarogya Setu App/ But, I believe other apps in the other countries may have the same feature. This is one centralized way for government knowing the infection rate. (Special Guidelines)
 
-22. 
+>* When a cyclone hits there is a disruption in power supply and telecom connection. one can save the data of self-access and upload it later. Or the second solution is to use mesh network as proposed in Call for code for uploading data. [Project Owl - 2018 IBM Call for code](https://www.project-owl.com/). The mesh network helps first responders to be on-site and get better reception and connection to help people. 
+
+20. Food, clothing, shelter and healthcare should be basic rights and not a privilege.
+
+21. Fuzzy tailgating - As the number of police to patrol and doctors to treat COVID 19 patients being constant. There is anyway going to be many more violations knowingly and unknowingly. This is from PAWS security project of Dr Milind Tambe. The situation is when the people tend to violate a lockdown a drone system/ or a camera overhead the traffic indicator (This is there to check traffic violation in many cities across various) will inform them about the lockdown and humbly request them to follow the procedure. With section 144 going around i.e. night curfew from 7 pm to 7 am for India, not sure about others. This will significantly help the general population, police and doctors. 
+Random thought:- During one of the world war, people used the siren to stay indoors and to keep them safe. This siren can be an indication of symbolic representation of COVID lockdown announcement, and help people to get back to their houses safely before curfew.
+
+22. It has been found that most affected people are the one in metropolitan cities(India- Mumbai, Delhi, Chennai US - New York), deployment of large forces and knowing the infrastructure + lifestyle can be a plus in situation like this. I was looking at the case of Taiwan what made them kick covid19 faster in spite of being in China. Here is look inside Taiwan's lifestyle from [BBC-Click](https://www.youtube.com/watch?v=UvGmhvqrTWU) {Diclaimer:- I used to watch click when I was a kid, for Infrastructure, you can check Natgeo - mega-structures.}
+
+23. Covid19 in wastewater - As most wastewater meets the sea or location where they get treated before they are sent to the sea. [One peculiar in New is:- At least 440 people were likely infected with COVID-19 in the area around the treatment facility in Massachusetts — much higher than reported cases](https://www.downtoearth.org.in/news/water/covid-19-new-research-examines-wastewater-to-detect-community-spread-70489) [April 16, 2020] A startup company called [Biobot](https://www.biobot.io/) is working on this problem.
 
 -- I will add more in this section. -- 
