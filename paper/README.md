@@ -121,7 +121,7 @@ For Example
 >* Mumbai has been already using BMC bus to transport essential workers.
 >* Delhi could use the metro's as all metro station cover 2- 6k.m. radius of the general population. + CRPF security(Central Reserve Police Force).
          
-15. The crime rates may go down, but domestic violence can go up. Victims of such events should be given sanctuary at proper places, local authorities should be cognizant of such matters. [This is from NYPD crime stats, At the press briefing - Add link todo]()
+15. The crime rates may go down, but domestic violence can go up. Victims of such events should be given sanctuary at proper places, local authorities should be cognizant of such matters. [This is from NYPD crime stats, At the press briefing - Add link todo]
 
 16. Why India has the upper hand against COVID-19 [Please, find the published article by World Economic Forum](https://www.weforum.org/agenda/2020/04/india-covid19-coronavirus-response-kerala-uttar-pradesh/)[April 17,2020]
 
@@ -153,11 +153,14 @@ Good Source of information for climate change are:- [1. World Meteorological Org
 
 20. Food, clothing, shelter and healthcare should be basic rights and not a privilege.
 
-21. Fuzzy tailgating - As the number of police to patrol and doctors to treat COVID 19 patients being constant. There is anyway going to be many more violations knowingly and unknowingly. This is from PAWS security project of Dr Milind Tambe. The situation is when the people tend to violate a lockdown a drone system/ or a camera overhead the traffic indicator (This is there to check traffic violation in many cities across various) will inform them about the lockdown and humbly request them to follow the procedure. With section 144 going around i.e. night curfew from 7 pm to 7 am for India, not sure about others. This will significantly help the general population, police and doctors. 
+21. Fuzzy tailgating - As the number of police to patrol and doctors to treat COVID 19 patients being constant. There is anyway going to be many more violations knowingly and unknowingly. This is from PAWS security project of Dr Milind Tambe. The situation is when the people tend to violate a lockdown a drone system/ or a camera overhead the traffic indicator (This is there to check traffic violation in many cities across various) will inform them about the lockdown and humbly request them to follow the procedure. With section 144 going around i.e. night curfew from 7 pm to 7 am for India, not sure about others. This will significantly help the general population, police and doctors. A similar new where a robot reminds prk-goers of social distancing in singapore [link](https://www.telegraph.co.uk/news/2020/05/10/watch-robot-dog-reminds-park-goers-social-distancing-singapore/)
+
 Random thought:- During one of the world war, people used the siren to stay indoors and to keep them safe. This siren can be an indication of symbolic representation of COVID lockdown announcement, and help people to get back to their houses safely before curfew.
 
 22. It has been found that most affected people are the one in metropolitan cities(India- Mumbai, Delhi, Chennai US - New York), deployment of large forces and knowing the infrastructure + lifestyle can be a plus in situation like this. I was looking at the case of Taiwan what made them kick covid19 faster in spite of being in China. Here is look inside Taiwan's lifestyle from [BBC-Click](https://www.youtube.com/watch?v=UvGmhvqrTWU) {Diclaimer:- I used to watch click when I was a kid, for Infrastructure, you can check Natgeo - mega-structures.}
 
 23. Covid19 in wastewater - As most wastewater meets the sea or location where they get treated before they are sent to the sea. [One peculiar in New is:- At least 440 people were likely infected with COVID-19 in the area around the treatment facility in Massachusetts — much higher than reported cases](https://www.downtoearth.org.in/news/water/covid-19-new-research-examines-wastewater-to-detect-community-spread-70489) [April 16, 2020] A startup company called [Biobot](https://www.biobot.io/) is working on this problem.
+
+24. The locations for drone medical supply usage will be the same off-road locations as that of ballot centres.
 
 -- I will add more in this section. -- 
