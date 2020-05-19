@@ -34,7 +34,7 @@ A suggestive formula for testing folks and local patrol distribution for care an
 
 For e.g. To control vectors if New York (10 k.m. scale) has to go into complete lockdown it has to use minimum patrol force as many location manhattan, brooklyn and staten island are surrounded by water. If Delhi(10 k.m. scale) has to go into lockdown it has to cover a generic parameter like a circle of sorts. While for mumbai (5 k.m. scale) it will be much less then either for city-wide lockdown. *(Geographic reference's are made using Google Maps)*
 Also here, complete lockdown here is deploying patrol forces at city borders. Please find below snapshots of maps. 
-### New York (Map Scale 10k.m.)
+s(Map Scale 10k.m.)
 ![New York](https://github.com/biplav-s/covid19-info/blob/00467abc463ee9a169921271484103347fe33468/paper/map_new_york.png) 
 ### Mumbai (Map Scale 5k.m.)
 ![Mumbai](https://github.com/biplav-s/covid19-info/blob/00467abc463ee9a169921271484103347fe33468/paper/map_mumbai.png) 
@@ -65,6 +65,9 @@ The gif can be prepared using the Weather Online site in loop view, using softwa
 1. Pollution lowered due to lockdown in Europe.
 [Please, find ESA(European Space Agency) Reporting here](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Coronavirus_lockdown_leading_to_drop_in_pollution_across_Europe?fbclid=IwAR3-IEwAMq0mP6nVgOTMFsLGnRGhv7rJnf8tzmiaJKiRhGMS5yKno51-bnM)[March 27, 2020]
 
+## Non-Drug Theraphy. (Disclaimer:- Me #NotAMedicalDoctor)
+>* Non-Drug Theraphy apart from the already mentioned drug related theraphy[Knowledge Graph of COVID-19 Literature - IBM](https://ds-covid19.res.ibm.com/reports/drugs) [Source: WEF Christina Soares, Medical Editor Reuters.](https://www.weforum.org/agenda/2020/04/drugs-vaccines-therapies-covid19-health?fbclid=IwAR0cXgcBoUiSFQW7KD_Sp1fDzG2XElK8TRikt4MoiauFjrEm8PXiXaIqN00)
+
 ## Policies that could be useful on implementation. 
 
 1. Educating people, with correct scientific local information would accelerate the general cluster community for faster recovery. 
@@ -77,7 +80,7 @@ The gif can be prepared using the Weather Online site in loop view, using softwa
 
 *(1) and (2) are basically to follow the Hierarchical (chain of command) model to solve the problem.*
 
-3. Homeless/ Migrants, be given a proper place at a temporary shelter and food by following rules as per social distancing. 
+3. Homeless/ Migrants, be given a proper place at a temporary shelter and food by following rules as per social distancing. There can also be multiple foodbanks to keep up with their needs. Foodbanks can have multiple telephone numbers like- 1800-STD-FOOD (3663). Here STD can be area telephone code for delhi(011), mumbai(022) etc. (This is only an idea. Countries and their respective states can do whatever they can do best for the same. This information should be available on multiple places like the website of Ministry/ Dept of Health or the contact tracing App)
 [Example of Los Angeles Homeless coronavirus care.](https://laist.com/2020/03/13/los-angeles-homeless-coronaviurs-covid.php)
 [March 13, 2020]
 
@@ -123,5 +126,27 @@ For Example
 16. Why India has the upper hand against COVID-19 [Please, find the published article by World Economic Forum](https://www.weforum.org/agenda/2020/04/india-covid19-coronavirus-response-kerala-uttar-pradesh/)[April 17,2020]
 
 17. We completely missed the [odd-even setting for vehicles(Your recommendation)](https://www.linkedin.com/pulse/delhis-second-take-odd-even-traffic-rationing-make-cut-srivastava/) post lockdown to help people recover from Covid as two source link Air pollution to Covid 19 deaths. [WEF](https://www.weforum.org/agenda/2020/04/the-deadly-link-between-covid-19-and-air-pollution/) and [BBC](https://www.bbc.com/news/health-52351290) 
+
+18. WHO Academy for health workers and WHO Info for general public are the two apps recently published by WHO. [13th May 2020](https://www.who.int/news-room/detail/13-05-2020-launch-of-the-who-academy-and-the-who-info-mobile-applications?fbclid=IwAR0Ence-lAqeLOki25im7-00FUnaUeyo2533eEi-DI4-4u4J6crivggjYrY#.Xr7hxFztIPs.facebook). There is a World Health Assembly 73 going on dated 18-19th May Link:- [Main Site](https://apps.who.int/gb/e/e_wha73.html?fbclid=IwAR3bLkyTAq17FxTGesODM3CRUjLJ8tR2WH9ydJNYw3aJ60ur7eBnMmfH-ak) [live video Link](https://www.facebook.com/WHO/videos/643688902876975/?fref=mentions) [Daily Briefing by WHO](https://www.facebook.com/WHO/)
+
+19. with less then 10 days before first monsoon arrives after pandemic announcement(coronavirus can stay in the atmosphere for a long time). 
+>* Everyone should be prepared now more then ever. Like every general household should get a thermometer for general temperature check. I know the contactless thermometer can be a bit costlier, but they are not that costlier for a organization with essential workers. Know ways to sanitize a good local thermometer/ medical supplies (This is the new normal). Create a #MasksForAllInitiative for the rest of the year (A good leaders will always promote this). 
+
+>* Enough medicine for storage/ backup in a medical centre, which are far away from cities/ accessible towns.
+
+>* Being Vigilant about the number of cases also makes people cognizant of taking appropriate steps in a given location.
+(The Aaorogya Setu App does it best, gives number of cases in 500m/ 1k.m. and more)
+
+>* A reptitive message of good number of ads on television about safety measures. This can be the default television channel 0000 (This is the same channel we get most of the ads). 
+
+>* There are cities with second wave of the virus. (Add source here.)
+
+>* Cities with most cases should be given special attention. A root cause should be found to prevent second wave in such locations.
+
+20. Food, clothing, shelter and healthcare should be basic rights and not privilege.
+
+21. Fuzzy tailgating (elaborate the topic)
+
+22. 
 
 -- I will add more in this section. -- 
