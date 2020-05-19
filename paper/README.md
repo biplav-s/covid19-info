@@ -163,5 +163,7 @@ Random thought:- During one of the world war, people used the siren to stay indo
 
 24. The locations for drone medical supply usage will be the same off-road locations as that of ballot centres.
 
-25. Emotional companion robots would become a new thing in the Post-COVID era. This one is derived from emotional pets, which people carry around in flights. For e.g. [Vector](https://www.youtube.com/watch?v=Qy2Z2TWAt6A)
+25. Emotional companion robots would become a new thing in the Post-COVID era. This one is derived from emotional pets, which people carry around in flights. For e.g. [Vector](https://www.youtube.com/watch?v=Qy2Z2TWAt6A) A lower version of called Cozmo was also there in the AAAI-20 Student Outreach Workshop [link](https://www.cs.cmu.edu/~dst/AAAI20-Outreach/)
+(I believe number 25 is like living in the year 2050)
+
 -- I will add more in this section. -- 
