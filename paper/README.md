@@ -144,9 +144,9 @@ For Example
 >* Cities with most cases should be given special attention. A root cause should be found to prevent the second wave in such locations.
 
 #### Alert Special Case: *AMPHAN Cyclone, nearly 3 million people to evacuated across India and Bangladesh. (Cyclone + Covid19)
-## Link to 3 Million people evacuation due to AMPHAN Cyclone [May 19, 2020]
+## 3 Million people evacuation due to AMPHAN Cyclone [May 19, 2020]
 ![Link to 3 Million people evacuation due to AMPHAN Cyclone](https://github.com/madhavanpallan/covid19-info/blob/master/paper/AMPHAN_CYCLONE_SPECIAL_CASE/UNDRR_3M_EVAC_AMPHAN.png) 
-## History of C#yc3lones and why it is necessary. [May 19, 2020]
+## History of Cyclones and why it is necessary. [May 19, 2020]
 ![History](https://github.com/madhavanpallan/covid19-info/blob/master/paper/AMPHAN_CYCLONE_SPECIAL_CASE/WMO_UNDRR_AMPHAN.png)
 
 Good Source of information for climate change are:- [1. World Meteorological Organization - World level](https://twitter.com/WMO), [2. UN Office for Disaster Risk Reduction,](https://twitter.com/UNDRR), [3. India Met. Dept. - India](https://twitter.com/Indiametdept), [4. ESA EarthObservation - Europe](https://twitter.com/ESA_EO), [5. NOAA Climate.gov](https://twitter.com/NOAAClimate)
