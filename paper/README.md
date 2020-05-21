@@ -41,6 +41,9 @@ s(Map Scale 10k.m.)
 ### Delhi (Map Scale 10k.m.) 
 ![Delhi](https://github.com/biplav-s/covid19-info/blob/00467abc463ee9a169921271484103347fe33468/paper/map_new_delhi.png)
 
+## Workplace and Covid19
+1. This post explains Cubicle as example to maintian social distancing in workplace Source:- wired [Link](https://github.com/madhavanpallan/covid19-info/blob/master/paper/workplace/The%20Cubicle%20Is%20Back.%20Blame%20(or%20Thank)%20the%20Coronavirus%20_%20Source-WIRED.pdf)[April 30,2020]
+
 ## Chemicals Listed after processing 
 1. Accelerate Discovery Tool: This tool has top level analytics of the compounds that are shortlisted by IBM supercomputer SUMMIT after processing [ADT Tool](https://covid19-mol.mybluemix.net/) (It should be made known to in house chemist and researchers in the area for a better finding of a cure. Added as part of the broadcast for call for researchers at my personal LinkedIn page/ Facebook/ Twitter and Robotics Page. Original Broadcast with minor changes.[open letter by me ver - 2.0](https://docs.google.com/document/d/1dWmR0jyIAyljbut6puUQv-LhFYzGyN9if4sUZlVcB5c/edit?usp=sharing)
 
@@ -148,6 +151,8 @@ For Example
 ![Link to 3 Million people evacuation due to AMPHAN Cyclone](https://github.com/madhavanpallan/covid19-info/blob/master/paper/AMPHAN_CYCLONE_SPECIAL_CASE/UNDRR_3M_EVAC_AMPHAN.png) 
 ## History of Cyclones and why it is necessary. [May 19, 2020]
 ![History](https://github.com/madhavanpallan/covid19-info/blob/master/paper/AMPHAN_CYCLONE_SPECIAL_CASE/WMO_UNDRR_AMPHAN.png)
+########EMERGENCY HELPLINE NUMBERS
+>*(033-2214-3024) (033-2214-1310) (033-2214-3230) (WhatsApp No. 9432624365)
 
 Good Source of information for climate change are:- [1. World Meteorological Organization - World level](https://twitter.com/WMO), [2. UN Office for Disaster Risk Reduction,](https://twitter.com/UNDRR), [3. India Met. Dept. - India](https://twitter.com/Indiametdept), [4. ESA EarthObservation - Europe](https://twitter.com/ESA_EO), [5. NOAA Climate.gov](https://twitter.com/NOAAClimate)
 
@@ -169,5 +174,6 @@ Random thought:- During one of the world war, people used the siren to stay indo
 
 25. Emotional companion robots would become a new thing in the Post-COVID era. This one is derived from emotional pets, which people carry around in flights. For e.g. [Vector](https://www.youtube.com/watch?v=Qy2Z2TWAt6A) A lower version of called Cozmo was also there in the AAAI-20 Student Outreach Workshop [link](https://www.cs.cmu.edu/~dst/AAAI20-Outreach/)
 (I believe number 25 is like living in the year 2050)
+
 
 -- I will add more in this section. -- 
