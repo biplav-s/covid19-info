@@ -168,12 +168,16 @@ Random thought:- During one of the world war, people used the siren to stay indo
 
 22. It has been found that most affected people are the one in metropolitan cities(India- Mumbai, Delhi, Chennai US - New York), deployment of large forces and knowing the infrastructure + lifestyle can be a plus in situation like this. I was looking at the case of Taiwan what made them kick covid19 faster in spite of being in China. Here is look inside Taiwan's lifestyle from [BBC-Click](https://www.youtube.com/watch?v=UvGmhvqrTWU) {Diclaimer:- I used to watch click when I was a kid, for Infrastructure, you can check Natgeo - mega-structures.}
 
-23. Covid19 in wastewater - (AI + submersible solution) As most wastewater meets the sea or location where they get treated before they are sent to the sea. One peculiar in New is:- At least 440 people were likely infected with COVID-19 in the area around the treatment facility in Massachusetts — much higher than reported cases [link-](https://www.downtoearth.org.in/news/water/covid-19-new-research-examines-wastewater-to-detect-community-spread-70489) [April 16, 2020] A startup company called [Biobot](https://www.biobot.io/) is working on this problem.(In technex (IIT(BHU) technical fest) we used to have a problem statement called yellow submarine, where a submarine has complete a task from location A to B.)
+23. Covid19 in wastewater - (AI + submersible solution) As most wastewater meets the sea or location where they get treated before they are sent to the sea. One peculiar in New is:- At least 440 people were likely infected with COVID-19 in the area around the treatment facility in Massachusetts — much higher than reported cases [link-](https://www.downtoearth.org.in/news/water/covid-19-new-research-examines-wastewater-to-detect-community-spread-70489) [April 16, 2020] A startup company called [Biobot](https://www.biobot.io/) is working on this problem. In technex (IIT(BHU) technical fest) we used to have a problem statement called yellow submarine, where a submarine has to complete a task from location A to B.  But in our case we can actually use a toy submarine add a container (may be a syringe) as a water sampler to collect sample of water from deep near the water bed or wherever required controlling from ground/ boat wearing proper hazmat suit. 
 
 24. The locations for drone medical supply usage will be the same off-road ballot centres.
 
-25. Emotional companion robots would become a new thing in the Post-COVID era. This one is derived from emotional pets, which people carry around in flights. For e.g. [Vector](https://www.youtube.com/watch?v=Qy2Z2TWAt6A) A lower version of called Cozmo was also there in the AAAI-20 Student Outreach Workshop [link](https://www.cs.cmu.edu/~dst/AAAI20-Outreach/)
+25. Emotional companion robots would become a new thing in the Post-COVID era. This one is derived from emotional pets, which people carry around in flights. For e.g. [Vector](https://www.youtube.com/watch?v=Qy2Z2TWAt6A) A lower version of Vector called Cozmo was exhibited in the AAAI-20 Student Outreach Workshop [link](https://www.cs.cmu.edu/~dst/AAAI20-Outreach/)
 (I believe number 25 is like living in the year 2050)
+
+26. Union Minister for Health, India Dr. HarshVardhan is the new chairperson for WHO Executive Council.
+
+27. I have 2 more ideas for but due to sensitive nature sending you in mail. 
 
 
 -- I will add more in this section. -- 
