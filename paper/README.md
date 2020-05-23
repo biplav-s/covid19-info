@@ -175,7 +175,7 @@ Random thought:- During one of the world war, people used the siren to stay indo
 25. Emotional companion robots would become a new thing in the Post-COVID era. This one is derived from emotional pets, which people carry around in flights. For e.g. [Vector](https://www.youtube.com/watch?v=Qy2Z2TWAt6A) A lower version of Vector called Cozmo was exhibited in the AAAI-20 Student Outreach Workshop [link](https://www.cs.cmu.edu/~dst/AAAI20-Outreach/)
 (I believe number 25 is like living in the year 2050)
 
-26. Union Minister for Health, India Dr. HarshVardhan is the new chairperson for WHO Executive Council.
+26. Union Minister for Health, India Dr. HarshVardhan is the new chairperson for WHO Executive Council. (News)
 
 27. I have 2 more ideas for but due to sensitive nature sending you in mail. 
 
