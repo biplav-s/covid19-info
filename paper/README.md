@@ -175,9 +175,10 @@ Random thought:- During one of the world war, people used the siren to stay indo
 25. Emotional companion robots would become a new thing in the Post-COVID era. This one is derived from emotional pets, which people carry around in flights. For e.g. [Vector](https://www.youtube.com/watch?v=Qy2Z2TWAt6A) A lower version of Vector called Cozmo was exhibited in the AAAI-20 Student Outreach Workshop [link](https://www.cs.cmu.edu/~dst/AAAI20-Outreach/)
 (I believe number 25 is like living in the year 2050)
 
-26. Union Minister for Health, India Dr. HarshVardhan is the new chairperson for WHO Executive Council. (News)
+26. Union Minister for Health, India Dr. HarshVardhan is the new chairman for WHO Executive Council. [**News - WHO Briefing](https://www.facebook.com/watch/live/?v=281164206384239&ref=notif&notif_id=1590142086677843&notif_t=live_video_explicit) [**News - IndianExpress](https://indianexpress.com/article/explained/dr-harsh-vardhan-who-executive-board-chairman-6420280/) [May 22, 2020]
 
-27. I have 2 more ideas for but due to sensitive nature sending you in mail. 
+27. Idea - I am not sure, how people have the time to make 'Killer Drone' for Warfare. But don't have the discipline to make a self-driving car to overtake puny needs of people at times like this. At times like this decent doable thing would be a combo of drone (guide) and autonomous road transport vehicle run to keep clear of any accidents. Also, the roads being empty due to lockdown it shouldn't be a biggy. A guided solution like a line follower(per se lane follower) could be a good solution. (Robotics - Autonomous vehicle in the time of lockdown to reduce redundant work.)
 
+28. I have 2 more ideas for but due to sensitive nature sending you in mail. (Compiling the email)
 
 -- I will add more in this section. -- 
