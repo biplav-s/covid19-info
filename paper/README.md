@@ -146,12 +146,12 @@ For Example
 
 >* Cities with most cases should be given special attention. A root cause should be found to prevent the second wave in such locations.
 
-#### Alert Special Case: *AMPHAN Cyclone, nearly 3 million people to evacuated across India and Bangladesh. (Cyclone + Covid19)
+###### Alert Special Case: *AMPHAN Cyclone, nearly 3 million people to evacuated across India and Bangladesh. (Cyclone + Covid19)
 ## 3 Million people evacuation due to AMPHAN Cyclone [May 19, 2020]
 ![Link to 3 Million people evacuation due to AMPHAN Cyclone](https://github.com/madhavanpallan/covid19-info/blob/master/paper/AMPHAN_CYCLONE_SPECIAL_CASE/UNDRR_3M_EVAC_AMPHAN.png) 
 ## History of Cyclones and why it is necessary. [May 19, 2020]
 ![History](https://github.com/madhavanpallan/covid19-info/blob/master/paper/AMPHAN_CYCLONE_SPECIAL_CASE/WMO_UNDRR_AMPHAN.png)
-########EMERGENCY HELPLINE NUMBERS
+###### EMERGENCY HELPLINE NUMBERS
 >*(033-2214-3024) (033-2214-1310) (033-2214-3230) (WhatsApp No. 9432624365)
 
 Good Source of information for climate change are:- [1. World Meteorological Organization - World level](https://twitter.com/WMO), [2. UN Office for Disaster Risk Reduction,](https://twitter.com/UNDRR), [3. India Met. Dept. - India](https://twitter.com/Indiametdept), [4. ESA EarthObservation - Europe](https://twitter.com/ESA_EO), [5. NOAA Climate.gov](https://twitter.com/NOAAClimate)
@@ -180,7 +180,7 @@ Random thought:- During one of the world war, people used the siren to stay indo
 27. Idea - I am not sure, how people have the time to make 'Killer Drone' for Warfare. But don't have the discipline to make a self-driving car to overtake needs of people at times like this. At times like this decent doable thing would be a combo of drone (guide) and autonomous road transport vehicle run to keep clear of any accidents. Also, the roads being empty due to lockdown it shouldn't be a biggy. A guided solution like a line follower(per se lane follower) could be a good solution. (Robotics - Autonomous vehicle in the time of lockdown to reduce redundant work.)
 
 28. The difference between using and not using a mask explained by [lavision](https://www.lavision.de/en/news/2020/4302/). (My source- lex fridman fb feed.[MIT])
-######No Mask v/s Mask
+###### No Mask v/s Mask
 ![](https://github.com/madhavanpallan/covid19-info/blob/master/paper/gif/bos-covid19.gif)
 
 -- I will add more in this section. -- 
