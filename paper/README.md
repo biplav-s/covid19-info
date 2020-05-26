@@ -179,6 +179,8 @@ Random thought:- During one of the world war, people used the siren to stay indo
 
 27. Idea - I am not sure, how people have the time to make 'Killer Drone' for Warfare. But don't have the discipline to make a self-driving car to overtake needs of people at times like this. At times like this decent doable thing would be a combo of drone (guide) and autonomous road transport vehicle run to keep clear of any accidents. Also, the roads being empty due to lockdown it shouldn't be a biggy. A guided solution like a line follower(per se lane follower) could be a good solution. (Robotics - Autonomous vehicle in the time of lockdown to reduce redundant work.)
 
-28. I have 2 more ideas for but due to sensitive nature sending you in mail. (Compiling the email)
+28. The difference between using and not using a mask explained by [lavision](https://www.lavision.de/en/news/2020/4302/). (My source- lex fridman fb feed.[MIT])
+######No Mask v/s Mask
+![](https://github.com/madhavanpallan/covid19-info/blob/master/paper/gif/bos-covid19.gif)
 
 -- I will add more in this section. -- 
