@@ -183,4 +183,26 @@ Random thought:- During one of the world war, people used the siren to stay indo
 ###### No Mask v/s Mask
 ![](https://github.com/madhavanpallan/covid19-info/blob/master/paper/gif/bos-covid19.gif)
 
+29. The below content is from [WHO briefing](https://www.facebook.com/watch/live/?v=1441276809390954&ref=watch_permalink)[8th June, 2020]
+>* World food safety day (2nd WFSD) celebrated all over the World, Food being our basic necessity should be cleaned regularly. And one should check the place of buying such as groceries are following WHO guidelines. [June 7, 2020]
+>* WHO suggests Polio networks(the network of doctors and social workers who have worked together with society to eradicate Polio and kept a close watch on Polio), can be used for eradicating Covid-19 virus. 
+>* [Go.Data app](https://www.who.int/godata)  - A app for an outbreak investigation tool for field data collection during public health emergencies.
+>* Protestors and everyone to follow pandemic guidelines (things like social distancing, mask4all initiative, #allHumanLifeMatters). 
+>* Medical Aid:- The idea for COVID patients remains the same. (isolate/ test / care). They also state a goto thing called "online consultation", 
+as there are many doctors available online from both govt and private sites like (practo, this one give you mobile number as well) for consultation, and to avoid onsite infection.
+>* WHO has dispersed 129 million dollars of PPE to the World. And recommends following science, solution and solidarity to other members of the community.
+
+30. Second Wave, as said by WHO briefing [Video](https://www.nbcnews.com/news/world/world-health-organization-warns-second-peak-areas-where-covid-19-n1214406) [25th May, 2020]
+
+31. Idea:- A solution of Aarogya Setu App feature for people returning from foreign countries under Vande Bharat Scheme. One could check the current status of the precise location of native per se the destination to be set in Fake GPS(Another App in Playstore) + developer setting for mock location set to use the Fake GPS location, and then login into Aarogya Setu App for knowing the exact infection rate. This could be of potential help to researchers, who are studying communal spread in India. I have personally tested this one for India Contact tracing app(Happy to learn they have gone Open-Source, NIC Delhi). (#allHumanLifeMatters) Apification of the above feature can be a good source. P.F.A the screenshots below. 
+###### Step 1. Install Fake GPS and Set a Hometown location.
+![Step 1. Install Fake GPS and Set a Hometown location](https://github.com/madhavanpallan/covid19-info/blob/master/paper/Aarogya_Setu/Fake_GPS.jpg)
+###### Step 2. Go to Developer Settings and select Mock Location settings. (Developer setting is at the end of settings)
+![Step 2. Go to Developer Settings and select Mock Location settings](https://github.com/madhavanpallan/covid19-info/blob/master/paper/Aarogya_Setu/Mock_Location_Settings.jpg)
+###### Step 3. Choose Fake GPS.
+![Step 3. Choose Fake GPS](https://github.com/madhavanpallan/covid19-info/blob/master/paper/Aarogya_Setu/Choosing_Fake_GPS_for_mock_location_Settings.jpg)
+###### Step 4. Open Aarogya Setu App and Know the number of infected people.
+![Step 4. Open Aarogya Setu App and Know the number of infected people](https://github.com/madhavanpallan/covid19-info/blob/master/paper/Aarogya_Setu/Number_of_Cases_Aarogya%20Setu.jpg)
+
+
 -- I will add more in this section. -- 
